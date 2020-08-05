@@ -10,3 +10,4 @@ for (i in ID) {
   mean(values, na.rm = TRUE)
 }
 pullutantmean("F:/data_science/courseara R prograamming/specdata", "sulfate", 1:21)
+#change
